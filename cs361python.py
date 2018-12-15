@@ -167,8 +167,6 @@ def list_sublists(x):
 a=[[2,3],[3,4]]
 list_sublists(a)
 
-!pip install -q matplotlib-venn
-
 import matplotlib.pyplot as plt
 import math
 plt.xlabel('x')
